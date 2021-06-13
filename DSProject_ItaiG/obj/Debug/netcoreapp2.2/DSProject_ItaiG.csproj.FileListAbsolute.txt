@@ -1,0 +1,11 @@
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\bin\Debug\netcoreapp2.2\DSProject_ItaiG.deps.json
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\bin\Debug\netcoreapp2.2\DSProject_ItaiG.runtimeconfig.json
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\bin\Debug\netcoreapp2.2\DSProject_ItaiG.runtimeconfig.dev.json
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\bin\Debug\netcoreapp2.2\DSProject_ItaiG.dll
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\bin\Debug\netcoreapp2.2\DSProject_ItaiG.pdb
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\obj\Debug\netcoreapp2.2\DSProject_ItaiG.csprojAssemblyReference.cache
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\obj\Debug\netcoreapp2.2\DSProject_ItaiG.csproj.CoreCompileInputs.cache
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\obj\Debug\netcoreapp2.2\DSProject_ItaiG.AssemblyInfoInputs.cache
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\obj\Debug\netcoreapp2.2\DSProject_ItaiG.AssemblyInfo.cs
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\obj\Debug\netcoreapp2.2\DSProject_ItaiG.dll
+C:\Users\itaig\OneDrive\Documents\SELA\6_AlgorithmsDataStructure\Project\Versions\1_191203\DSProject_ItaiG\DSProject_ItaiG\obj\Debug\netcoreapp2.2\DSProject_ItaiG.pdb
